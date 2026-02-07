@@ -1,4 +1,3 @@
-## Rodrigo Cardoso
 # Olá, eu sou Rodrigo Cardoso! 👋
 
 Desenvolvedor Mobile com mais de **4 anos de experiência** criando soluções inovadoras para desafios complexos utilizando React Native. Ao longo da minha trajetória, contribuí para a escalabilidade e desempenho de aplicativos que impactam **milhões de usuários** diariamente.
