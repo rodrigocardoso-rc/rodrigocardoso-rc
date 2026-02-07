@@ -14,14 +14,11 @@ Desenvolvedor Mobile com mais de **4 anos de experiência** criando soluções i
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 **Bibliotecas & Ferramentas:**
-
-| Área | Tecnologias |
-|------|-------------|
-| Database | Realm DB |
-| Câmera | Vision Camera |
-| Backend/Auth | Firebase |
-| Localização | Geolocation Service |
-| Animações | React Reanimated |
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Geolocation-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Vision Camera](https://img.shields.io/badge/Vision_Camera-5C2D91?style=for-the-badge&logo=camera&logoColor=white)
+![Reanimated](https://img.shields.io/badge/React_Reanimated-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Outras Tecnologias
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -41,9 +38,3 @@ Desenvolvedor Mobile com mais de **4 anos de experiência** criando soluções i
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigocardoso-rc)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigo.cardoso1007@gmail.com)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blueviolet&style=flat-square&label=Visitantes"/>
-</div>
