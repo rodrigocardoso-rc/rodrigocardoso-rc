@@ -14,6 +14,7 @@ Desenvolvedor Mobile com mais de **4 anos de experiência** criando soluções i
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 **Bibliotecas & Ferramentas:**
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Geolocation-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
